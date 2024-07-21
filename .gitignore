@@ -1,0 +1,4 @@
+models/**
+model/**
+lightning_logs/**
+data/**
